@@ -8,6 +8,7 @@ namespace vjezba1
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
+            //Ti si goat svih goatova
         }
     }
 }
